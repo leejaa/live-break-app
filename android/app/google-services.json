@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1042849622633",
+    "project_id": "live-break-app",
+    "storage_bucket": "live-break-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042849622633:android:52892f1046419646af10f8",
+        "android_client_info": {
+          "package_name": "com.breakncompany.live_break.live_break_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAduExzs_K2NS4T0fMf02I_8Gr-9UHJnxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
